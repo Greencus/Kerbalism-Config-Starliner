@@ -3,4 +3,4 @@ The Kerbalism config for the Kommunity Starliner Modpack. Based on the stock [ht
 
 Changes will focus on:
 
--Disabling life support while keeping other parts of kerbalism active
+-Disabling life support while keeping other parts of kerbalism active, so that it can be easily used with USI life support
